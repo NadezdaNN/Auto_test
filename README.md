@@ -1,3 +1,3 @@
 # Auto_test
 
-Auto test for project Boot_module
+Auto test lesson10_step7.py
